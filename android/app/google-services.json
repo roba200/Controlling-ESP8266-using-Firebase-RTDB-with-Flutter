@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "308289860021",
+    "project_id": "myfolio-ecb89",
+    "storage_bucket": "myfolio-ecb89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308289860021:android:aed9beb0e474b58b90e9fc",
+        "android_client_info": {
+          "package_name": "com.example.controlling_esp8266_with_firebase_and_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308289860021-3gtqckukb3dnorl0mgqmjn2dicu0be6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9cpoL12rrhJOtcJUdMSgfkBS68-oD4MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308289860021-3gtqckukb3dnorl0mgqmjn2dicu0be6j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308289860021-ciq0e74sjhgp088galjb2s8kh1j2vld7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ui.roba.ui"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308289860021:android:297d96330bb63e8990e9fc",
+        "android_client_info": {
+          "package_name": "com.ui.roba.ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308289860021-3gtqckukb3dnorl0mgqmjn2dicu0be6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9cpoL12rrhJOtcJUdMSgfkBS68-oD4MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308289860021-3gtqckukb3dnorl0mgqmjn2dicu0be6j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308289860021-ciq0e74sjhgp088galjb2s8kh1j2vld7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ui.roba.ui"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
